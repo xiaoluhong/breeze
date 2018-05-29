@@ -1,9 +1,9 @@
 # Deploy Kubernetes Cluster with Web UI
 [![Build Status](https://travis-ci.org/wise2c-devops/playbook.svg?branch=master)](https://travis-ci.org/wise2c-devops/playbook)
 
-Deploy Kubernetes Cluster with Web UI
+Breeze - Deploy Kubernetes Cluster with Web UI
 
-欢迎使用睿云智合提供的图形化Kubernetes部署工具
+欢迎使用睿云智合提供的图形化Kubernetes部署工具Breeze
 
 使用该工具，将抹平普通用户学习复杂的kubeadm部署技能学习曲线，体会到一键式部署Kubernetes集群的乐趣！
 
@@ -11,7 +11,7 @@ Deploy Kubernetes Cluster with Web UI
 
 操作步骤如下：
 
-1. 软件的使用非常简单，只需要下载某个版本的docker-compose.yml文件即可。确保您的Linux主机已经安装好了docker以及docker-compose，具体步骤参考以下内容。
+1. 软件的使用非常简单，只需要在希望部署的Kubernetes版本分支中下载Breeze的![docker-compose.yml文件](./manual/KubernetesDeployUI-037.png)（Master分支对应Latest Kubernetes版本）,确保您的Linux主机已经安装好了docker以及docker-compose，具体步骤参考以下内容。
 
 （1）对部署机取消SELINUX设定及放开防火墙
 
