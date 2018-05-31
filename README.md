@@ -1,5 +1,5 @@
 # Breeze - Deploy Kubernetes Cluster with Web UI
-[![Build Status](https://travis-ci.org/wise2c-devops/playbook.svg?branch=master)](https://travis-ci.org/wise2c-devops/playbook)
+[![Build Status](https://travis-ci.org/wise2c-devops/breeze.svg?branch=master)](https://travis-ci.org/wise2c-devops/breeze)
 
 Breeze - Deploy Kubernetes Cluster with Web UI
 
