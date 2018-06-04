@@ -9,6 +9,10 @@ Breeze - Deploy Kubernetes Cluster with Web UI
 
 适用操作系统为RHEL 7.4/7.5 或 CentOS 7.4/7.5
 
+Note:
+1. **请不要把Breeze所在的主机加入部署集群**
+2. **为了避免包冲突，请使用纯净的centos minimal安装出来的OS来部署集群**
+
 操作步骤如下：
 
 1. 软件的使用非常简单，只需要在希望部署的Kubernetes版本分支中下载Breeze的docker-compose.yml文件（Master分支对应Latest Kubernetes版本）
