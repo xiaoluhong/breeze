@@ -45,7 +45,7 @@ yum install docker
 例如：
 
 ```
-curl -L https://raw.githubusercontent.com/wise2c-devops/playbook/v1.10.3/docker-compose.yml -o docker-compose.yml
+curl -L https://raw.githubusercontent.com/wise2c-devops/playbook/v1.10.4/docker-compose.yml -o docker-compose.yml
 ```
 
 ```
